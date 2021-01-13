@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/menu_navigation_libre"
+            android:icon="@drawable/ic_keyboard_arrow_right_black_24dp"
+            android:title="@string/menu_navigation_libre_string"/>
+
+        <item
+            android:id="@+id/menu_itineraire"
+            android:icon="@drawable/ic_keyboard_arrow_right_black_24dp"
+            android:title="@string/menu_itineraire_string"/>
+
+        <item
+            android:id="@+id/menu_recommandations"
+            android:title="@string/menu_recommandations_string"
+            android:icon="@drawable/ic_keyboard_arrow_right_black_24dp"/>
+
+        <item
+            android:id="@+id/menu_carnet_voyage"
+            android:title="@string/menu_carnet_voyage_string"
+            android:icon="@drawable/ic_keyboard_arrow_right_black_24dp"/>
+
+        <item
+            android:id="@+id/menu_aide"
+            android:title="@string/menu_aide_string"
+            android:icon="@drawable/ic_keyboard_arrow_right_black_24dp"/>
+
+        <item
+            android:id="@+id/menu_credits"
+            android:title="@string/menu_credits_string"
+            android:icon="@drawable/ic_keyboard_arrow_right_black_24dp"/>
+
+    </group>
+</menu>

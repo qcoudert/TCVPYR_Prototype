@@ -1,0 +1,203 @@
+<resources>
+    <string name="user_location_permission_explanation">Pour afficher votre position sur la carte, nous avons besoin d\'accéder à votre localisation.</string>
+    <string name="user_location_permission_not_granted">Votre position ne sera pas affichée sur la carte.</string>
+
+    <string name="appLabel">TCV PyrAT</string>
+
+    <!-- Menu Navigation Draw -->
+    <string name="menu_navigation_libre_string">Visite libre</string>
+    <string name="menu_itineraire_string">Itinéraire</string>
+    <string name="menu_recommandations_string">Préférences</string>
+    <string name="menu_carnet_voyage_string">Carnet de voyage</string>
+    <string name="menu_aide_string">Aide</string>
+    <string name="menu_credits_string">Crédits</string>
+
+    <!--Credits -->
+    <string name="credits_message">Prototype d\'application tourstique développé dans le cadre du projet TCVPyr.\nStage 04/02/2019 - 12/07/2019</string>
+
+    <!-- Aide -->
+    <string name="aide_message">PyrAT est le prototype d\'application touristique permettant de valoriser le patrimoine culturel Pyrénéen.\n\n\t📌 Visite libre: vous pouvez consulter librement les points d\'intérêts proposés.\n\t📌 Itinéraire: générer un itinéraire vous permettant de visiter le patrimoine en fonction de vos contraintes.\n\t📌 Préférences: Choisissez quel type de patrimoine vous intéresse.\n\t📌 Carnet de voyage: retrouvez les parcours que vous avez enregistré durant vos visites.</string>
+
+    <!-- Visite Libre -->
+    <string name="search_hint">Recherchez un POI</string>
+    <string name="record">Enregister le parcours</string>
+
+    <!-- Carnet de Voyage -->
+    <string name="aucunCarnet">Vous n\'avez enregistré aucun parcours.</string>
+
+    <!-- Menu Itinéraire -->
+    <string name="labelItActivity">Créer un itinéraire</string>
+
+    <string name="transport_label">Mode de déplacement:</string>
+    <string name="transport_walk">À pied</string>
+    <string name="tranport_car">Voiture</string>
+    <string name="transport_bike">Vélo</string>
+
+    <string name="visit_date_label">Date de la visite:</string>
+    <string name="visit_date_day_label">Date</string>
+    <string name="visit_date_day_null">jj/mm/yyyy</string>
+    <string name="visit_date_hour_label">Heure</string>
+    <string name="visit_date_hour_null">hh:mm</string>
+    <string name="visit_duration_label">Durée de la visite</string>
+    <string name="visit_duration_unlimited">Indifférent</string>
+
+    <string name="visit_area_label">Lieu de visite:</string>
+    <string name="visit_area_sublabel">Ville</string>
+    <string name="visit_area_null">Position actuelle</string>
+
+    <string name="group_label">Profil du groupe:</string>
+    <string name="group_kids">Enfants</string>
+    <string name="group_young">Jeunes</string>
+    <string name="group_adults">Adultes</string>
+    <string name="group_seniors">Seniors</string>
+
+    <!-- Menu Recommandations -->
+    <string name="r_menu_architecture_com">Architecture commerciale</string>
+    <string name="r_menu_architecture_jardin">Architecture de jardin</string>
+    <string name="r_menu_architecture_publique">Architecture publique</string>
+    <string name="r_menu_architecture_domestique">Architecture domestique</string>
+    <string name="r_menu_architecture_loisir">Architecture de loisir</string>
+    <string name="r_menu_architecture_religieuse">Architecture religieuse</string>
+    <string name="r_menu_architecture_industrielle">Architecture industrielle</string>
+    <string name="r_menu_genie_civil">Génie civil</string>
+    <string name="r_menu_architecture_hospitaliere">Architecture hospitalière</string>
+    <string name="r_menu_architecture_scolaire">Architecture scolaire</string>
+    <string name="r_menu_architecture_agricole">Architecture agricole</string>
+    <string name="r_menu_architecture_financiere">Architecture financière</string>
+    <string name="r_menu_architecture_judiciaire">Architecture judiciaire</string>
+    <string name="r_menu_architecture_militaire">Architecture militaire</string>
+    <string name="r_menu_architecture_funeraire">Architecture funeraire</string>
+    <string name="r_menu_partie_architecture">Partie d\'architecture</string>
+    <string name="r_menu_hotel_restaurant">Hôtel / Restaurant</string>
+    <string name="r_menu_boutique">Boutique</string>
+    <string name="r_menu_bassin">Bassin</string>
+    <string name="r_menu_construction_jardin">Construction de jardin</string>
+    <string name="r_menu_jardin">Jardin</string>
+    <string name="r_menu_mairie">Mairie</string>
+    <string name="r_menu_bureau_poste">Bureau de poste</string>
+    <string name="r_menu_batiment_annexe">Bâtiment annexe</string>
+    <string name="r_menu_abri">Abri</string>
+    <string name="r_menu_maison">Maison</string>
+    <string name="r_menu_immeuble">Immeuble</string>
+    <string name="r_menu_immeuble_logements">Immeuble à logements</string>
+    <string name="r_menu_chateau">Château</string>
+    <string name="r_menu_bains">Bains</string>
+    <string name="r_menu_casino">Casino</string>
+    <string name="r_menu_salle_des_fetes">Salle des fêtes</string>
+    <string name="r_menu_salle_de_spectacle">Salle de spectacle</string>
+    <string name="r_menu_eglise">Église</string>
+    <string name="r_menu_couvent">Couvent</string>
+    <string name="r_menu_construction_religieuse">Construction religieuse</string>
+    <string name="r_menu_agro_alimentaires">Agro-alimentaires</string>
+    <string name="r_menu_energie">Énergie</string>
+    <string name="r_menu_construction_eau">Construction liée à l\'eau</string>
+    <string name="r_menu_pont">Pont</string>
+    <string name="r_menu_gare">Gare</string>
+    <string name="r_menu_voie_ferree">Voie ferrée</string>
+    <string name="r_menu_hospice">Hospice</string>
+    <string name="r_menu_hopital">Hôpital</string>
+    <string name="r_menu_pharmacie">Pharmacie</string>
+    <string name="r_menu_voie_promenade">Voie / Promenade</string>
+    <string name="r_menu_place">Place</string>
+    <string name="r_menu_station_thermale">Station thermale</string>
+    <string name="r_menu_armement">Armement</string>
+    <string name="r_menu_objet_divers">Objets divers</string>
+    <string name="r_menu_element_architecture">Élément d\'architecture</string>
+    <string name="r_menu_objet_scientifique">Objet scientifique</string>
+    <string name="r_menu_instrument_musique">Instrument de musique</string>
+    <string name="r_menu_machine_energetique">Machine énergétique</string>
+    <string name="r_menu_machine_industrielle">Machine industrielle</string>
+    <string name="r_menu_meuble_domestique">Meuble domestique</string>
+    <string name="r_menu_meuble_religieux">Meuble religieux</string>
+    <string name="r_menu_mobilier_exterieur">Mobilier d\'extérieur</string>
+    <string name="r_menu_objet_domestique">Objet domestique</string>
+    <string name="r_menu_peinture">Peinture</string>
+    <string name="r_menu_objet_religieux">Objet religieux</string>
+    <string name="r_menu_sculpture">Sculpture</string>
+    <string name="r_menu_textile_laic">Textile laïc</string>
+    <string name="r_menu_textile_religieux">Textile religieux</string>
+    <string name="r_menu_moyen_transport">Moyen de transport</string>
+    <string name="r_menu_groupe_sculpte">Groupe sculpté</string>
+    <string name="r_menu_buste">Buste</string>
+    <string name="r_menu_statue">Statue</string>
+    <string name="r_menu_maquette">Maquette</string>
+    <string name="r_menu_telephone">Téléphone</string>
+
+    <array name="r_exp_list_data_theme">
+        <item>Parc et jardin;Bassin;Construction de jardin;Jardin;Voie et promenade;Place</item>
+        <item>Pont, fontaine, ...;Fontaine;Pont</item>
+        <item>Mairie, poste, école, ...;Mairie;Poste;Bâtisse scolaire;Gare</item>
+        <item>Habitation et château;Hôtellerie;Bâtisse annexe;Cabane;Maison;Château;Immeuble</item>
+        <item>Bâtisse religieuse;Église;Couvent;Autre construction religieuse;Cimetière</item>
+        <item>Thermes, casino, ...;Station thermale;Bains;Casino;Salle de spectacle</item>
+        <item>Autre bâtisse;Bâtisse financière;Bâtisse agricole;Bâtisse judiciaire;Bâtisse
+            militaire;Partie de bâtiment;Ancien commerce;Bâtisse industrielle et atelier;Hôpital et
+            pharmacie
+        </item>
+        <item>Mobilier domestique;Meuble domestique;Objet domestique</item>
+        <item>Mobilier d\'art;Peinture;Instrument de musique;Sculpture;Maquette</item>
+        <item>Mobilier religieux;Meuble religieux;Objet religieux;Textile religieux</item>
+        <item>Autre mobilier;Téléphone;Armement;Élément d\'architecture;Objet scientifique;Textile
+            laïque;Moyen de transport;Machine énergétique;Machine industrielle
+        </item>
+    </array>
+
+    <array name="r_exp_list_data_histo">
+        <item>Préhistoire;Paléolithique;Mésolithique;Néolithique</item>
+        <item>Protohistoire;Age du bronze;Age du fer</item>
+        <item>Antiquité;République romaine;Haut-empire;Bas-empire</item>
+        <item>Moyen âge;Haut moyen âge;Milieu moyen âge;Fin moyen âge</item>
+        <item>16e siècle;1ère moitié 16e siècle;2e moitié 16e siècle</item>
+        <item>17e siècle;1ère moitié 17e siècle;2e moitié 17e siècle</item>
+        <item>18e siècle;1ère moitié 18e siècle;2e moitié 18e siècle</item>
+        <item>19e siècle;1ère moitié 19e siècle;2e moitié 19e siècle</item>
+        <item>20e siècle;1ère moitié 20e siècle;2e moitié 20e siècle</item>
+        <item>21e siècle;1ère moitié 21e siècle</item>
+    </array>
+
+    <string name="recoLabel">Recommandations</string>
+    <string name="recoTheme">Préférences thématiques</string>
+    <string name="recoHisto">Préférences historiques</string>
+
+    <!-- POI Strings -->
+    <string name="resume">Résumé</string>
+    <string name="desciption">Description</string>
+    <string name="historique">Historique</string>
+    <string name="personnes">Personnes impliquées</string>
+    <string name="note">Donnez votre avis sur ce point d\'intérêt: </string>
+    <string name="noteIndispo">Rapprochez-vous et notez !</string>
+    <string name="otherInfo">Autres informations</string>
+    <!-- POI PlaceHolder -->
+    <string name="labelPlaceHolder">Aucun titre trouvé</string>
+    <string name="resumePlaceHolder">Aucun résumé trouvé</string>
+    <string name="descriptionPlaceHolder">Aucune description trouvée</string>
+    <string name="historiquePlaceHolder">Aucun historique trouvé</string>
+    <string name="personnesPlaceHolder">Aucune personne trouvée</string>
+    <string name="imageContentDesription">Image du POI</string>
+
+    <!-- Profile Maker -->
+    <string name="profilePickerLabel">Création de profil</string>
+    <string name="askMakeProfile">Aucun profil détecté, veuillez fournir les informations suivantes pour accéder aux fonctionnalités personnalisées de l\'application:</string>
+    <string name="gender">Genre:</string>
+    <string name="homme">Homme</string>
+    <string name="femme">Femme</string>
+    <string name="ageCategory">Catégorie d\'âge:</string>
+
+    <!-- Alert Location -->
+    <string name="location_alert_title">Localisation désactivée</string>
+    <string name="location_alert_body">Pour une meilleure expérience, nous vous conseillons d\'activer la localisation. Dans le cas contraire, vous pourrez consulter la carte mais votre position ne sera pas affichée.</string>
+
+    <!-- Alert Network -->
+    <string name="network_alert_title">Aucune connection détectée</string>
+    <string name="network_alert_body_block">Une connexion est nécessaire pour utiliser cette fonctionnalité. Veuillez-vous connecter à Internet puis appuyer sur réessayer.</string>
+
+    <!-- Util -->
+    <string name="confirm">Confirmer</string>
+    <string name="cancel">Annuler</string>
+    <string name="ok">OK</string>
+    <string name="retry">Réessayer</string>
+    <string name="activate">Activer</string>
+    <string name="refuse">Refuser</string>
+    <string name="debug_string">Debug String</string>
+
+</resources>

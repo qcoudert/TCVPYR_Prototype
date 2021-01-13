@@ -1,0 +1,238 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [0.5935977,42.78877255]
+			},
+			"properties": {
+				"stage_number": 1,
+				"poi_name": "villa Olagne",
+				"poi_to_visit": [
+					{
+						"poi_id": "IA31012330",
+						"poi_name": "villa Olagne",
+						"visit_average_duration": 5,
+						"final_score": null,
+						"preferences_score": null,
+						"temporal_score": null,
+						"social_score": null
+					}
+				]
+			},
+			"corresponding_model_class": "stage"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [0.59448322,42.78921524]
+			},
+			"properties": {
+				"stage_number": 2,
+				"poi_name": "Hotel des Boulevards, puis immeuble à logements",
+				"poi_to_visit": [
+					{
+						"poi_id": "IA31012329",
+						"poi_name": "h�tel des Boulevards, puis immeuble � logements",
+						"visit_average_duration": 5,
+						"final_score": null,
+						"preferences_score": null,
+						"temporal_score": null,
+						"social_score": null
+					}
+				]
+			},
+			"corresponding_model_class": "stage"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [0.59456669,42.79297754]
+			},
+			"properties": {
+				"stage_number": 3,
+				"poi_name": "Etablissement thermal dit Vaporarium",
+				"poi_to_visit": [
+					{
+						"poi_id": "IA31012355",
+						"poi_name": "�tablissement thermal dit Vaporarium",
+						"visit_average_duration": 5,
+						"final_score": null,
+						"preferences_score": null,
+						"temporal_score": null,
+						"social_score": null
+					},
+					{
+						"poi_id": "IM31000922",
+						"poi_name": "statue : Surprise",
+						"visit_average_duration": 2,
+						"final_score": null,
+						"preferences_score": null,
+						"temporal_score": null,
+						"social_score": null
+					}
+				]
+			},
+			"corresponding_model_class": "stage"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [0.59418858,42.79500167]
+			},
+			"properties": {
+				"stage_number": 4,
+				"poi_name": "statue : Lionne debout",
+				"poi_to_visit": [
+					{
+						"poi_id": "IM31000916",
+						"poi_name": "statue : Lionne debout",
+						"visit_average_duration": 2,
+						"final_score": null,
+						"preferences_score": null,
+						"temporal_score": null,
+						"social_score": null
+					}
+				]
+			},
+			"corresponding_model_class": "stage"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[0.593542,42.788982], 
+					[0.594508,42.789117]
+				]
+			},
+			"properties": {
+				"start_stage": 1,
+				"end_stage": 2,
+				"travel_time_in_minute": 1,
+				"travel_distance_in_meter": 80,
+				"instructions": [
+					{
+						"text": "Continue onto Avenue Jean Boularan",
+						"street_name": "Avenue Jean Boularan"
+					},
+					{
+						"text": "Arrive at destination",
+						"street_name": ""
+					}
+				]
+			},
+			"corresponding_model_class": "route"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[0.594508,42.789117],
+					[0.594823,42.78915],
+					[0.594644,42.790932],
+					[0.594409,42.792967]
+				]
+			},
+			"properties": {
+				"start_stage": 2,
+				"end_stage": 3,
+				"travel_time_in_minute": 5,
+				"travel_distance_in_meter": 452,
+				"instructions": [
+					{
+						"text": "Continue onto Avenue Jean Boularan",
+						"street_name": "Avenue Jean Boularan"
+					},
+					{
+						"text": "Turn left onto Rue Spont",
+						"street_name": "Rue Spont"
+					},
+					{
+						"text": "Arrive at destination",
+						"street_name": ""
+					}
+				]
+			},
+			"corresponding_model_class": "route"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[0.594409,42.792967],
+					[0.594342,42.793532],
+					[0.593971,42.793401],
+					[0.593764,42.793269],
+					[0.593707,42.793315],
+					[0.593549,42.793657],
+					[0.593444,42.793626],
+					[0.593301,42.793611],
+					[0.593019,42.793699],
+					[0.593963,42.794694],
+					[0.594104,42.79483],
+					[0.594262,42.79495],
+					[0.594223,42.795013]
+				]
+			},
+			"properties": {
+				"start_stage": 3,
+				"end_stage": 4,
+				"travel_time_in_minute": 5,
+				"travel_distance_in_meter": 403,
+				"instructions": [
+					{
+						"text": "Continue onto Rue Colomic",
+						"street_name": "Rue Colomic"
+					},
+					{
+						"text": "Turn sharp left onto Rue Henry Russel",
+						"street_name": "Rue Henry Russel"
+					},
+					{
+						"text": "Turn right",
+						"street_name": ""
+					},
+					{
+						"text": "Turn left",
+						"street_name": ""
+					},
+					{
+						"text": "Turn right onto Avenue du Mar�chal Foch",
+						"street_name": "Avenue du Mar�chal Foch"
+					},
+					{
+						"text": "Keep right onto Avenue du Mar�chal Foch",
+						"street_name": "Avenue du Mar�chal Foch"
+					},
+					{
+						"text": "At roundabout, take exit 1",
+						"street_name": ""
+					},
+					{
+						"text": "Arrive at destination",
+						"street_name": ""
+					}
+				]
+			},
+			"corresponding_model_class": "route"
+		}
+	],
+	"itinerary_tranportation_mode": "foot",
+	"itinerary_construction_date": "12/03/2019",
+	"itinerary_departure": {
+		"stage_number": 1
+	},
+	"itinerary_arrival": {
+		"stage_number": 4
+	},
+	"itinerary_duration_in_minute": 36,
+	"itinerary_distance_in_meter": 935
+}

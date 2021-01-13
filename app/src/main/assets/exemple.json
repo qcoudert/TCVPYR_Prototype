@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features":[{ "type": "Feature",
+    "geometry":{
+      "type": "Point",
+      "coodinates":[1.83476279,42.7221209]},"properties":{"id":"IA09005674",
+      "chercheurs":[{"nom":"Comet","prenom":"Anaïs"}
+      ],
+      "anneesConstructions":[1933],
+      "instance": "class fr.univpau.liuppa.tcvpyr.model.Merimee",
+      "dateSaisie": "2018-01-01",
+      "titre": "villa Les Petites Roses",
+      "description": "La parcelle où se trouve la villa est implantée dans la partie nord du lotissement d'En Castel, à l'angle du boulevard Louis Rolland et du square Delcassé. La villa occupe la partie nord-ouest de la parcelle et est alignée sur les deux voies de communication. Elle est implantée à 3 m en moyenne des limites parcellaires nord, ouest et sud. Le jardin prend place autour de la villa et surtout à l'arrière de celle-ci, du côté du sud-est.£La villa se développe sur un sous-sol, un rez-de-chaussée surélevé et un étage. Un garage est accolé contre l'élévation nord-est de la partie habitation. Le matériau de construction du gros-oeuvre n'est pas connu avec certitude. Les murs du rez-de-chaussée et d'une partie de l'étage de l'élévation sud sont couverts d'un parement irrégulier en pierre. Le reste des élévations est couvert d'un enduit blanc. Les éléments du faux pan-de-bois en béton de l'étage, dans l'angle ouest et sur les élévations sud-est et nord-est, sont peints en turquoise. Les linteaux des fenêtres sont peints de la même couleur. Le toit à longs pans de la villa et le toit en appentis du garage sont couverts de tuiles plates mécaniques.£Trois escaliers droits en maçonnerie donnant sous des porches permettent d'accéder du jardin à l'intérieur de la villa, sur toutes les élévations sauf au nord-est, du côté du garage. L'entrée principale donne sur le square Delcassé, au nord-ouest. Elle est marquée par la présence d'un porche en pierre apparente ouvert de deux arcades en plein-cintre sur le côté nord-ouest et une sur le côté nord-est. Sur cette façade, la fenêtre du rez-de-chaussée présente la particularité d'être une baie large dotée de deux meneaux.£D'après les plans, la maison comporte deux caves au sous-sol, dont une pour le vin. Le rez-de-chaussée abrite une salle à manger, un salon, la cuisine doublée d'un office d'où part l'escalier menant au sous-sol, un WC et un vestibule abritant l'escalier menant à l'étage. Les différentes pièces de l'étage sont desservies depuis le palier. Cet étage abrite trois chambres, une salle de bain et un WC séparé.",
+      "type": "",
+      "datations": ["2e quart 20e siècle"],
+      "adresse": {
+        "nomVoie": "Louis Rolland",
+        "numero": "",
+        "municipalite": "Ax-les-Thermes",
+        "region": "Occitanie",
+        "typeVoie": "boulevard"
+      },
+      "personnes":[{"role":"architecte","nom":"Rasonglès","prenom":"Jean"}
+      ,{"role":"commanditaire","nom":"Aldebert","prenom":"Louis"}
+      ],
+      "historique": "La villa a été édifiée à la demande de Louis Aldebert, propriétaire à Saint-Cloud d'Algérie en 1933. Les plans, dressés par l'architecte marseillais Jean Rasonglès, sont conservés aux Archives départementales de l'Ariège. Les élévations nord et ouest de la villa sont en tout point conformes avec les plans de Jean Rasonglès. Le jardin paysager représenté sur les plans a cependant presque totalement disparu, il ne subsiste plus qu'une partie de la pergola en béton."
+    }
+  }
+  ]}
